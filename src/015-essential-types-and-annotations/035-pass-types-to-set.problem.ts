@@ -1,6 +1,8 @@
 // CODE
 
-const userIds = new Set();
+
+
+const userIds = new Set<number>();
 
 // TESTS
 
